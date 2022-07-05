@@ -1,0 +1,39 @@
+Selenium Class two
+
+What is a Web Element?
+
+Anything we see on the web ;page is considred to be a Web Element
+eg. buttons, text boxes,
+
+What is HTML?
+HyperText Markup Language
+
+What is DOM?
+DOM stands for Document Object Model. It is the browser's internal view of the webpage
+Also called dev tools or Developers tools
+
+document --> a simple html document which represents the page we are inspecting
+
+object --> every line in HTML is considered to be an object
+
+Model--> It is just the layout of the HTML
+
+
+Locator
+Is an address or a position of a web element on the webpage
+is used to locate or identify webelements on the webpage
+
+8 Locators:
+
+-ID
+-Name
+-TagName
+-xpath
+-LinkText
+-PartialLinkText
+-CssSelectors
+-ClassName
+
+<a tag is a link   == ancor tag
+
+default = package private
